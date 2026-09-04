@@ -16,18 +16,6 @@ Here are the primary tools and languages I use to crack LeetCode problems:
 
 ---
 
-## 📈 My Daily LeetCode Stats
-I track my daily consistency using dynamic stats widgets. Check out my real-time progress:
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="LeetCode Stats" width="45%" />
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="45%" />
-</p>
-
-*Note: The widgets refresh automatically as I solve problems and push code.*
-
----
-
 ## 🗓️ What I Post Daily
 Every single day, you will see updates in my dedicated solutions repository containing:
 - **Optimized Solutions:** Clean, well-commented code in Python.
