@@ -1,5 +1,5 @@
 #1929 CONCATENATION OF ARRAYS
-#THIS THE CODE THAT I SUBMITTED IN LEETCODE
+#THIS IS THE CODE THAT I SUBMITTED IN LEETCODE
 
 class Solution(object):
     def getConcatenation(self, nums):
