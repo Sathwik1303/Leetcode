@@ -4,7 +4,7 @@
 ## 🚀 Welcome to My LeetCode Hub!
 I am on a dedicated journey to master **Data Structures and Algorithms (DSA)** and sharpen my problem-solving skills. I commit daily to coding, optimizing, and documenting my progress right here on GitHub.
 
-📊 **[Click here to view my LeetCode Solutions Repository!](https://github.com)**
+📊 **[Click here to view my LeetCode Solutions Repository!](https://github.com/Sathwik1303/Leetcode.git)**
 
 ---
 
@@ -42,10 +42,6 @@ Every single day, you will see updates in my dedicated solutions repository cont
 - [ ] Participate in the weekly LeetCode Contests
 
 ---
-
-## 🤝 Connect with Me
-Let's study, collaborate, or talk algorithms! 
-[![LeetCode](https://shields.io)](https://leetcode.com)
 
 "Consistency beats talent when talent doesn't work hard." 🧩
 
